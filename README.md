@@ -14,7 +14,7 @@ Download the files above to a location on your computer.
 
 ## Contents
 
-- **CSFML.au3** is the CSFML UDF, containing the SFML functions for AutoIT
+- **CSFML.au3** is the CSFML UDF itself, containing the SFML functions for AutoIT
 - **CSFML_short_example.au3** is an example of an AutoIT script using the UDF
 - **arial.ttf** and **logo4.gif** are resource files required by CSFML_short_example.au3 above
 
