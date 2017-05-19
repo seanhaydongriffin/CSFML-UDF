@@ -1,4 +1,7 @@
 # CSFML-UDF
+
+## Introduction
+
 This is a UDF of SFML functions for AutoIT.
 
 SFML (Simple and Fast Multimedia Library) is a library / API for developing games and multimedia applications.
